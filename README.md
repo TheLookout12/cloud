@@ -24,6 +24,12 @@ Say yes to the 2 with hosting labels and the one with Realtime database.
 
 Say yes to all apart from the overwrite files.
 
+Once this is complete use the following command, again in command line:
+
+firebase deploy
+
+This should deploy the website and give a link to the user that should give them the html file online linked with the database.
+
 Of course you should be able to see the website by using the link supplied below.
 
 To see the website use the following URL:
